@@ -1,0 +1,2 @@
+# JobSite-Web-Scrapping-Project
+Web scrapping of a job site using BeautifulSoup library of Python. And then filtering out the information such as name of company, skills and date of posting of the latest jobs which match the skills of the user.
